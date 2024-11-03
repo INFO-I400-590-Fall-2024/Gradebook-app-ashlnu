@@ -6,7 +6,7 @@ import {db} from './firebase';
 interface Student {
   id: string;
   name: string;
-  age?: number; // Add other fields as needed
+  age?: number; 
 }
 
 export default function FirebaseFetcher() {
