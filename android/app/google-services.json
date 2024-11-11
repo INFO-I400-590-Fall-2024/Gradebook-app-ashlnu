@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520364853493",
+    "project_id": "gradebook-b4017",
+    "storage_bucket": "gradebook-b4017.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520364853493:android:b61dbca84612d0d7689dbc",
+        "android_client_info": {
+          "package_name": "com.gradebookashlnu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgK7fG9UZ2xQGGB4LVRl7kpviLMZ5fz5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

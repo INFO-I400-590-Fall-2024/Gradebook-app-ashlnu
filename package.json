@@ -10,10 +10,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@types/react-native-push-notification": "^8.1.4",
     "firebase": "^11.0.1",
     "react": "18.3.1",
     "react-native": "0.76.0",
-    "react-native-dotenv": "^3.4.11"
+    "react-native-dotenv": "^3.4.11",
+    "react-native-permissions": "^5.1.0",
+    "react-native-push-notification": "^8.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
